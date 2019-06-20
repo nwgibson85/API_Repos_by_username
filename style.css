@@ -40,3 +40,7 @@ li, img {
 .hidden {
     display: none;
 }
+
+#clearingResults {
+    margin-top: 8px;
+}
